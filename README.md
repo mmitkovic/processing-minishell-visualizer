@@ -3,7 +3,7 @@
 A simple processing animation that runs a series of commands, inspired by my Minishell project.
 
 <p align="center">
-  <img src="preview_minishell_animation.gif width="700">
+  <img src="preview_minishell_animation.gif width="720">
 </p>
 
 ## Run It
